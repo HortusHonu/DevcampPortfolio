@@ -2,6 +2,8 @@
 
 > This is a Ruby on Rails 5 application that allows users to create their own portfolios.
 
+## Adding another header to compare sizes
+
 ### Features
 
 - Real time chat engine for comments
@@ -20,3 +22,5 @@ end
 ```javascript
 alert('Hi there')
 ```
+
+  
